@@ -30,6 +30,7 @@ A realistic network troubleshooting exercise. You're the on-call engineer—diag
 
 - **gcloud CLI** installed and authenticated (`gcloud auth login`)
 - **Terraform** installed (1.4+)
+- **jq** installed for JSON parsing ([Download jq](https://jqlang.org/download/))
 - **GCP project** set in gcloud (`gcloud config set project <project-id>`)
 
 ---
