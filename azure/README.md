@@ -29,6 +29,7 @@ A realistic network troubleshooting exercise. You're the on-call engineer—diag
 
 - **Azure CLI** installed and authenticated (`az login`)
 - **Terraform** installed (1.4+)
+- **jq** installed for JSON parsing ([Download jq](https://jqlang.org/download/))
 - **Azure credentials** available to Terraform/CLI (Azure CLI login or env vars)
 
 ---

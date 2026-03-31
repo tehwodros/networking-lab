@@ -29,6 +29,7 @@ A realistic network troubleshooting exercise. You're the on-call engineer—diag
 
 - **AWS CLI** installed and authenticated (e.g., `aws configure`)
 - **Terraform** installed (1.4+)
+- **jq** installed for JSON parsing ([Download jq](https://jqlang.org/download/))
 - **AWS credentials** available to Terraform/CLI (env vars or shared config)
 
 ---
